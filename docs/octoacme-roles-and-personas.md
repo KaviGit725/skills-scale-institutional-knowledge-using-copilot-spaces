@@ -75,10 +75,10 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
-## Stakeholder Advocates
+## Stakeholder Advocate
 
 ### Role Summary
-Stakeholder Advocates represent internal and external stakeholder interests throughout delivery. They partner with Product Managers and Project Managers to maintain shared understanding of requirements, progress, and expectations.
+The Stakeholder Advocate represents internal and external stakeholder interests throughout delivery. This role partners with Product Managers and Project Managers to maintain shared understanding of requirements, progress, and expectations.
 
 ### Responsibilities
 - Gather and clarify stakeholder requirements and feedback
@@ -98,10 +98,10 @@ Stakeholder Advocates represent internal and external stakeholder interests thro
 
 ---
 
-## Technical Risk Managers
+## Technical Risk Manager
 
 ### Role Summary
-Technical Risk Managers identify, assess, and mitigate technical risks that could affect delivery, quality, or operations. They collaborate with Developers and Project Managers to make risks visible and actionable.
+The Technical Risk Manager identifies, assesses, and mitigates technical risks that could affect delivery, quality, or operations. This role collaborates with Developers and Project Managers to make risks visible and actionable.
 
 ### Responsibilities
 - Conduct technical risk assessments during planning and execution
@@ -121,10 +121,10 @@ Technical Risk Managers identify, assess, and mitigate technical risks that coul
 
 ---
 
-## Quality Assurance Leads
+## Quality Assurance Lead
 
 ### Role Summary
-Quality Assurance Leads ensure deliverables meet defined quality standards and have appropriate testing coverage. They partner with Developers, Product Managers, and Project Managers to validate acceptance criteria throughout delivery.
+The Quality Assurance Lead ensures deliverables meet defined quality standards and have appropriate testing coverage. This role partners with Developers, Product Managers, and Project Managers to validate acceptance criteria throughout delivery.
 
 ### Responsibilities
 - Define quality criteria and test strategies for deliverables
@@ -144,10 +144,10 @@ Quality Assurance Leads ensure deliverables meet defined quality standards and h
 
 ---
 
-## Change Management Coordinators
+## Change Management Coordinator
 
 ### Role Summary
-Change Management Coordinators plan and execute transitions so that teams and stakeholders can adopt project changes successfully. They work across all roles to coordinate change communications, knowledge transfer, and adoption support.
+The Change Management Coordinator plans and executes transitions so that teams and stakeholders can adopt project changes successfully. This role works across all roles to coordinate change communications, knowledge transfer, and adoption support.
 
 ### Responsibilities
 - Create transition and change communication plans
@@ -167,10 +167,10 @@ Change Management Coordinators plan and execute transitions so that teams and st
 
 ---
 
-## Compliance and Governance Officers
+## Compliance and Governance Officer
 
 ### Role Summary
-Compliance and Governance Officers ensure project work follows applicable policies, standards, and regulatory requirements. They advise Project Managers, Product Managers, and leadership on compliance obligations and documented decisions.
+The Compliance and Governance Officer ensures project work follows applicable policies, standards, and regulatory requirements. This role advises Project Managers, Product Managers, and leadership on compliance obligations and documented decisions.
 
 ### Responsibilities
 - Audit project processes and artifacts for policy and standards adherence
@@ -181,7 +181,7 @@ Compliance and Governance Officers ensure project work follows applicable polici
 ### Goals
 - Reduce compliance and governance risks across project delivery
 - Maintain auditable records of decisions and approvals
-- Ensure requirements are addressed before release and transition
+- Ensure compliance and regulatory requirements are addressed before release and transition
 
 ### Typical Communication
 - Compliance reviews and findings with Project Managers
